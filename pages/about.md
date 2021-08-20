@@ -1,5 +1,5 @@
 ---
-title: About us
+title: About Me
 metaDescription: This is a sample meta description. If one is not present in
   your page/post's front matter, the default metadata.desciption will be used
   instead.
@@ -9,4 +9,4 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-# About Me
+# hello,
