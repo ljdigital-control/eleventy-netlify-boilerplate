@@ -9,4 +9,4 @@ eleventyNavigation:
 ---
 # Ola
 
-This is a test to see if i can get a connection to git 
+This is a test to see if i can get a connection to git. Boom it worked !
