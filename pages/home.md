@@ -12,4 +12,4 @@ eleventyNavigation:
 
 This is a test to see if i can get a connection to git. Boom it worked !
 
-I am testing this more and more
+I am testing this more and more.
