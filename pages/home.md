@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
 title: github site test
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata desciption will be used instead.
+metaDescription: boom
 date: 2021-08-20T16:28:43.717Z
 permalink: /
 eleventyNavigation:
