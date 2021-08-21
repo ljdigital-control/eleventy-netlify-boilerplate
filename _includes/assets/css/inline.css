@@ -20,7 +20,7 @@ body {
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--background);
-	color: #eee;
+	color: #fff;
 }
 
 main {
