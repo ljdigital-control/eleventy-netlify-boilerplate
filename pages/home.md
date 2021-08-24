@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: github site test
+title: Eleventy GIThub Test
 metaDescription: boom
 date: 2021-08-20T16:28:43.717Z
 permalink: /
